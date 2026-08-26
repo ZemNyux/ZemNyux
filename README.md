@@ -20,7 +20,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-0a0909?style=for-the-badge&amp;logo=telegram&amp;logoColor=ff1a1a)](https://t.me/ZemNyux)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0909?style=for-the-badge&amp;logo=linkedin&amp;logoColor=ff1a1a)](https://www.linkedin.com/in/your_handle/)
-[![Email](https://img.shields.io/badge/Email-0a0909?style=for-the-badge&amp;logo=gmail&amp;logoColor=ff1a1a)](nikita.gaber2703@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0a0909?style=for-the-badge&amp;logo=gmail&amp;logoColor=ff1a1a)](mailto:nikita.gaber2703@mail.com)
 [![City Morgue Z.AI](https://img.shields.io/badge/city--morgue--z.ai-0a0909?style=for-the-badge&amp;logo=react&amp;logoColor=ff1a1a)](https://github.com/ZemNyux/city-morgue-z.ai)
 
 </div>
