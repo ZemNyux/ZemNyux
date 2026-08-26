@@ -4,7 +4,7 @@
   <br/>
 
   <!-- счётчик посетителей (аниме-тема, как на референсе; тему можно менять: moebooru / gelbooru / rule34 ...) -->
-  <img src="https://count.getloli.com/get/@:ZemNyux?theme=rule34" alt="visitors" />
+  <img src="https://count.getloli.com/get/@:ZemNyux?theme=gelbooru" alt="visitors" />
 
   <br/>
 
