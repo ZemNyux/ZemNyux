@@ -19,7 +19,7 @@
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-0a0909?style=for-the-badge&amp;logo=telegram&amp;logoColor=ff1a1a)](https://t.me/ZemNyux)
-[![City Morgue Z.AI](https://img.shields.io/badge/city--morgue--z.ai-0a0909?style=for-the-badge&amp;logo=react&amp;logoColor=ff1a1a)](https://github.com/ZemNyux/city-morgue-z.ai)
+[![City Morgue](https://img.shields.io/badge/city--morgue--z.ai-0a0909?style=for-the-badge&amp;logo=react&amp;logoColor=ff1a1a)]([https://github.com/ZemNyux/city-morgue-z.ai](https://zemnyux.github.io/city-morgue-site/))
 
 </div>
 
