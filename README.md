@@ -42,40 +42,6 @@
 
 <!-- 🔧 поменяй списки под свой стек: полный набор иконок — https://skillicons.dev -->
 
-**LANGUAGES**
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,cs,cpp&amp;theme=dark" alt="languages" />
-  </a>
-</div>
-
-**FRONTEND**
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,sass,vite&amp;theme=dark" alt="frontend" />
-  </a>
-</div>
-
-**BACKEND**
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,spring,django,dotnet,express&amp;theme=dark" alt="backend" />
-  </a>
-</div>
-
-**DATA &amp; TOOLS**
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git,githubactions,linux,postman,vscode&amp;theme=dark" alt="tools" />
-  </a>
-</div>
-
----
-
 ## 🩸 VITAL SIGNS
 
 <div align="center">
