@@ -19,28 +19,12 @@
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-0a0909?style=for-the-badge&amp;logo=telegram&amp;logoColor=ff1a1a)](https://t.me/ZemNyux)
-[![City Morgue](https://img.shields.io/badge/city--morgue--0a0909?style=for-the-badge&amp;logo=react&amp;logoColor=ff1a1a)]([https://zemnyux.github.io/city-morgue-site/])
 
 </div>
 
 <div align="center">
   <img src="assets/terminal.svg" width="640" alt="terminal" />
 </div>
-
----
-
-<!-- ⚰️ Этот SVG генерируется GitHub Action-ом (.github/workflows/metrics.yml) -->
-## ⚰️ AUTOPSY REPORT
-
-<div align="center">
-  <img src="github-metrics.svg" alt="metrics" width="100%" />
-</div>
-
----
-
-## ☠️ ARSENAL
-
-<!-- 🔧 поменяй списки под свой стек: полный набор иконок — https://skillicons.dev -->
 
 ## 🩸 VITAL SIGNS
 
@@ -70,31 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZemNyux&hide_border=true&bg_color=0a0909&title_color=ff1a1a&text_color=e7e3df" alt="wakatime" width="480" />
 </div>
 -->
-
----
-
-## 😈 A LITTLE MORE ABOUT ME
-
-```text
-🔨 сейчас коваю .......... тёмные интерфейсы и сырые бэкенды
-🎧 в репите .............. CITY MORGUE, ZillaKami, SosMula — под каждый деплой
-🌒 продуктивность ........ максимум после полуночи
-🩸 цвет в палитре ........ #b3000f
-⚰️ девиз ................. as good as dead — still pushing commits
-```
-
----
-
-## 🐍 THE CRAWL
-
-<!-- Змейка генерируется GitHub Action-ом (.github/workflows/snake.yml) и лежит на ветке output -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ZemNyux/ZemNyux/blob/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ZemNyux/ZemNyux/blob/output/snake.svg" />
-  <img alt="snake" src="https://github.com/ZemNyux/ZemNyux/blob/output/snake.svg" />
-</picture>
-
----
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&amp;size=14&amp;color=8A8580&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=26&amp;lines=C%D8%9EMORGUE+%C2%A9+ZEMNYUX" alt="footer" />
