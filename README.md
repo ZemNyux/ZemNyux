@@ -19,10 +19,6 @@
 
 </div>
 
-<div align="center">
-  <img src="assets/terminal.svg" width="640" alt="terminal" />
-</div>
-
 # Hi 👋, I'm Zem Nyux
 
 ### Enthusiast. Backend/Full-Stack Developer
