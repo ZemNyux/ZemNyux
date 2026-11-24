@@ -12,8 +12,6 @@
 
 ---
 
-<h1 align="center">CITY MORGUE /&gt; 💀</h1>
-
 <!-- 🔧 ЗАМЕНИ ссылки в href на свои -->
 <div align="center">
 
