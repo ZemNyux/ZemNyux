@@ -23,10 +23,6 @@
 
 ### Enthusiast. Backend/Full-Stack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZemNyux&label=Profile views&color=0e75b6&style=flat" alt="ZemNyux" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZemNyux" alt="ZemNyux" /></a> </p>
-
 - 🔭 I'm currently working on **Full-stack web applications using Django REST / Web API and React, as well as scalable backend services on ASP.NET Core and SQL Server**
 
 - 🌱 I'm currently learning **Containerization and orchestration with Docker and Kubernetes, advanced database migrations, and clean backend architecture patterns**
