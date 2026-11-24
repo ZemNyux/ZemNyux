@@ -7,7 +7,7 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&amp;size=18&amp;pause=1200&amp;color=FF1A1A&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=30&amp;code+till+the+casket+drops;hell+or+high+water+%E2%80%94+ship+anyway" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&amp;size=18&amp;pause=1200&amp;color=FF1A1A&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=30" alt="typing" />
 </div>
 
 ---
