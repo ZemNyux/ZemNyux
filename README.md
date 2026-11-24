@@ -19,7 +19,7 @@
 
 </div>
 
-# Hi 👋, I'm Zem Nyux
+# Hi 👋, I'm ZemNyux
 
 ### Enthusiast. Backend/Full-Stack Developer
 
@@ -55,11 +55,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZemNyux&" alt="ZemNyux" /></p>
 
-<!-- ⏱ WakaTime-карточка — раскомментируй, когда настроишь WakaTime (см. SETUP.md)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZemNyux&hide_border=true&bg_color=0a0909&title_color=ff1a1a&text_color=e7e3df" alt="wakatime" width="480" />
 </div>
--->
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&amp;size=14&amp;color=8A8580&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=26&amp;lines=C%D8%9EMORGUE+%C2%A9+ZEMNYUX" alt="footer" />
