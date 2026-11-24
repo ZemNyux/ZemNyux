@@ -23,28 +23,45 @@
   <img src="assets/terminal.svg" width="640" alt="terminal" />
 </div>
 
-## 🩸 VITAL SIGNS
+# Hi 👋, I'm Zem Nyux
 
-<div align="center">
-  <a href="https://github.com/ZemNyux">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZemNyux&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0a0909&amp;title_color=ff1a1a&amp;icon_color=b3000f&amp;text_color=e7e3df" alt="stats" height="165" />
-  </a>
-  <a href="https://github.com/ZemNyux">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZemNyux&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;bg_color=0a0909&amp;title_color=ff1a1a&amp;text_color=e7e3df" alt="langs" height="165" />
-  </a>
-</div>
+### Enthusiast. Backend/Full-Stack Developer
 
-<div align="center">
-  <a href="https://github.com/ZemNyux">
-    <img src="https://streak-stats.demolab.com?user=ZemNyux&amp;hide_border=true&amp;background=0a0909&amp;border=1e1d1d&amp;ring=b3000f&amp;fire=ff1a1a&amp;currStreakLabel=ff1a1a&amp;sideLabels=e7e3df&amp;dates=8a8580" alt="streak" width="480" />
-  </a>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZemNyux&label=Profile views&color=0e75b6&style=flat" alt="ZemNyux" /> </p>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ZemNyux&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=8&amp;rank=SSS,SS,S,AAA,AA,A" alt="trophy" width="100%" />
-  </a>
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZemNyux" alt="ZemNyux" /></a> </p>
+
+- 🔭 I'm currently working on **Full-stack web applications using Django REST / Web API and React, as well as scalable backend services on ASP.NET Core and SQL Server**
+
+- 🌱 I'm currently learning **Containerization and orchestration with Docker and Kubernetes, advanced database migrations, and clean backend architecture patterns**
+
+- 👯 I'm looking to collaborate on **Open-source backend projects, C# / .NET or Python / Django APIs, and full-stack web applications. The opportunity to join a team. I would appreciate it if you would consider my application**
+
+- 🤝 I'm looking for help with **Production-grade Kubernetes deployments, system design best practices, and high-load database optimization**
+
+- 💬 Ask me about **C# (.NET / ASP.NET Core), Python (Django), SQL Server, React, Docker, unit testing, or custom PC hardware & airflow optimization**
+
+- 📫 How to reach me **nikita.gaber2703@gmail.com**
+
+- ⚡ Fun fact **My personal backend runs on 100+ open browser tabs, trap metal playlists, and strict 200 OK resilience under pressure**
+
+- 👨‍💻 All of my projects are available at **[https://github.com/ZemNyux](https://github.com/ZemNyux)**
+
+- 📄 Know about my experiences **[https://ibb.co/hxkZr3Wh](https://ibb.co/hxkZr3Wh)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/ZemNyux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ZemNyux" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZemNyux&show_icons=true&locale=en&layout=compact" alt="ZemNyux" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZemNyux&show_icons=true&locale=en" alt="ZemNyux" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZemNyux&" alt="ZemNyux" /></p>
 
 <!-- ⏱ WakaTime-карточка — раскомментируй, когда настроишь WakaTime (см. SETUP.md)
 <div align="center">
